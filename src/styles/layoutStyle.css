@@ -1,0 +1,35 @@
+.tab {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 22px; 
+    padding: 14px;
+    color: black
+}
+
+#search-container {
+    width: 200px; 
+    height: 35px;
+    border: 1px solid gray; 
+    margin: auto; 
+    border-radius: 26px; 
+    direction: rtl; 
+    padding: 2px
+}
+
+#search-input { 
+    border-width: 0px;
+    width: 145px; 
+    height: 29px; 
+    border-radius: 26px; 
+    border-color:white; 
+    padding-right: 11px;
+    outline: none
+}
+
+
+#search-icon {
+    font-size: 19px;
+    vertical-Align: sub; 
+    color: black; 
+    margin-right: 22px
+}
